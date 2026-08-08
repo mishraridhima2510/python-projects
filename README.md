@@ -78,3 +78,15 @@ Each project is built while learning real-world development.
    BUILD • BREAK • FIX
         ↓
  🛡️ CYBERSECURITY
+
+ ---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mishraridhima2510/python-projects/gh-pages/github-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
+
+<p align="center">
+  <i>Every contribution leaves a trace.</i>
+</p>
