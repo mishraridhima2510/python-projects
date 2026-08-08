@@ -67,3 +67,14 @@ Each project is built while learning real-world development.
 ### ⭐ If you like this repository, consider giving it a Star ⭐
 
 </p>
+
+
+⚡ PYTHON PROJECTS
+        ↓
+   30+ REAL PROJECTS
+        ↓
+ 🐍 CONTRIBUTION MATRIX
+        ↓
+   BUILD • BREAK • FIX
+        ↓
+ 🛡️ CYBERSECURITY
